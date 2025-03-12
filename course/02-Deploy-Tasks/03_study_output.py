@@ -14,6 +14,7 @@
 
 # COMMAND ----------
 
-# MAGIC %md
-# MAGIC
-# MAGIC Answer here...
+transport.stigsolholm_featghsbs85test_0e7768a7_revenue.borough_population
+transport.stigsolholm_featghsbs85test_0e7768a7_revenue.revenue_by_borough
+transport.stigsolholm_featghsbs85test_0e7768a7_revenue.revenue_by_tripmonth
+transport.stigsolholm_featghsbs85test_0e7768a7_revenue.revenue_per_inhabitant

@@ -125,6 +125,10 @@ print("borough_population_tbl:" + repr(borough_population_tbl))
 
 # COMMAND ----------
 
+display(borough_population_tbl)
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC
 # MAGIC ### Generate training dataset

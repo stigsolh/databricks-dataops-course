@@ -45,9 +45,17 @@
 
 # COMMAND ----------
 
+
+
+# COMMAND ----------
+
 # MAGIC %md
-# MAGIC
+# MAGIC A job is the definition and a job run is an instance
 # MAGIC Answer here...
+
+# COMMAND ----------
+
+
 
 # COMMAND ----------
 
@@ -60,4 +68,10 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC transport_taxinyc_prep_test_stigsolholm_featghsbs85test_0e7768a7
+# MAGIC
+# MAGIC catalog_project__env_username_gitbranch
+
+# COMMAND ----------
+
+
